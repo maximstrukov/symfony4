@@ -38,7 +38,8 @@ class Cook
     }
 
     /**
-     *
+     * Ring the bell!!!
+     * 
      * @param string $key
      */
     public function ring(string $key): void
